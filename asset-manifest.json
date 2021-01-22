@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react-live/static/css/main.c24fab04.chunk.css",
+    "main.js": "/react-live/static/js/main.7b183245.chunk.js",
+    "main.js.map": "/react-live/static/js/main.7b183245.chunk.js.map",
+    "runtime-main.js": "/react-live/static/js/runtime-main.3c986523.js",
+    "runtime-main.js.map": "/react-live/static/js/runtime-main.3c986523.js.map",
+    "static/css/2.95258f03.chunk.css": "/react-live/static/css/2.95258f03.chunk.css",
+    "static/js/2.00793b86.chunk.js": "/react-live/static/js/2.00793b86.chunk.js",
+    "static/js/2.00793b86.chunk.js.map": "/react-live/static/js/2.00793b86.chunk.js.map",
+    "index.html": "/react-live/index.html",
+    "precache-manifest.445bdf8ef55f975a2790cc882d844b6f.js": "/react-live/precache-manifest.445bdf8ef55f975a2790cc882d844b6f.js",
+    "service-worker.js": "/react-live/service-worker.js",
+    "static/css/2.95258f03.chunk.css.map": "/react-live/static/css/2.95258f03.chunk.css.map",
+    "static/css/main.c24fab04.chunk.css.map": "/react-live/static/css/main.c24fab04.chunk.css.map",
+    "static/js/2.00793b86.chunk.js.LICENSE.txt": "/react-live/static/js/2.00793b86.chunk.js.LICENSE.txt",
+    "static/media/android.jpg": "/react-live/static/media/android.dcc799f3.jpg",
+    "static/media/app.jpg": "/react-live/static/media/app.3a726655.jpg",
+    "static/media/digital.jpg": "/react-live/static/media/digital.4b837e5e.jpg",
+    "static/media/image1.jpg": "/react-live/static/media/image1.c2884fe2.jpg",
+    "static/media/image2.jpg": "/react-live/static/media/image2.3269b485.jpg",
+    "static/media/marketing.jpg": "/react-live/static/media/marketing.be8fd5d4.jpg",
+    "static/media/software.jpg": "/react-live/static/media/software.d693f5a4.jpg",
+    "static/media/web.jpg": "/react-live/static/media/web.8784cb96.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c986523.js",
+    "static/css/2.95258f03.chunk.css",
+    "static/js/2.00793b86.chunk.js",
+    "static/css/main.c24fab04.chunk.css",
+    "static/js/main.7b183245.chunk.js"
+  ]
+}
